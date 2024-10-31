@@ -42,9 +42,8 @@ To set up the ASL Detector on your local machine, follow these steps:
 ## Usage 👩‍🏫
 
 1. Launch the application.
-2. Allow access to your webcam when prompted. 🎥
-3. Perform ASL signs in front of the camera.
-4. The system will display the recognized sign in real-time. 🌐
+2. Insert the image in the insertion box. 🎥
+3. The system will display the recognized sign. 🌐
 
 
 ## Contributing 🤝
