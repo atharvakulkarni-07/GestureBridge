@@ -2,7 +2,7 @@
 
 ## Overview 🌟
 
-The **American Sign Language (ASL) Detector** is a machine learning project designed to recognize and interpret American Sign Language gestures using computer vision techniques. This project leverages deep learning models to process video input, identify hand signs, and translate them into text or speech.
+The **American Sign Language (ASL) Detector** is a machine learning project designed to recognize and interpret American Sign Language gestures using computer vision techniques. This project leverages deep learning models to process and identify hand signs.
 
 ## Features 🚀
 
