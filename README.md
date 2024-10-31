@@ -9,7 +9,7 @@ The **American Sign Language (ASL) Detector** is a machine learning project desi
 - **Gesture Recognition**: Detects ASL signs by giving the image input. 📷
 - **High Accuracy**: Utilizes state-of-the-art convolutional neural networks (CNNs) for improved accuracy in sign detection. 🎯
 - **User-Friendly Interface**: Simple interface for users to interact with the system. 🖥️
-- **Multi-Sign Support**: Capable of recognizing multiple ASL signs and phrases. ✋
+- **Multi-Sign Support**: Capable of recognizing multiple ASL signs. ✋
 
 ## Technologies Used ⚙️
 
